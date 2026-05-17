@@ -62,19 +62,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruvinten-2003&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aruvinten-2003&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## Random Dev Quote
 
