@@ -33,6 +33,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -50,6 +51,7 @@
 | [Vote-Chain](https://github.com/Aruvinten-2003/Vote-Chain) | JavaScript / Blockchain | A voting system website developed using blockchain technology. |
 | [Inventory-Management-System](https://github.com/Aruvinten-2003/Inventory-Management-System) | C# / .NET | An inventory management system using the .NET framework. |
 | [WeatherApp](https://github.com/Aruvinten-2003/WeatherApp) | Java | A weather application project. |
+| [Weather-App](https://github.com/Aruvinten-2003/Weather-App) | PHP / Laravel | A Laravel weather application project. |
 | [AI-recognition-system](https://github.com/Aruvinten-2003/AI-recognition-system) | Python | An AI recognition system project. |
 
 ---
@@ -62,6 +64,19 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruvinten-2003&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aruvinten-2003&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
 
 ## Random Dev Quote
 
