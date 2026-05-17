@@ -39,6 +39,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/_-KOTLIN-A97BFF.svg?style=for-the-badge)
+![HTML](https://img.shields.io/badge/_-HTML-E34C26.svg?style=for-the-badge)
+![CSS](https://img.shields.io/badge/_-CSS-563D7C.svg?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
