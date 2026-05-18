@@ -42,6 +42,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+![HTML](https://img.shields.io/badge/_-HTML-E34C26.svg?style=for-the-badge)
+![CSS](https://img.shields.io/badge/_-CSS-563D7C.svg?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
